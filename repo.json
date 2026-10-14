@@ -1,2 +1,8 @@
 {
-  "name": "TLN-
+  "name": "TLN-Stream Repository",
+  "description": "Repositório Oficial TLN-Stream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Robsto009/plugin/refs/heads/main/builds/plugins.json"
+  ]
+}
